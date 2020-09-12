@@ -1,0 +1,7 @@
+
+*.xml
+*.class
+jmsclient/target/classes/META-INF/maven/com.emeter_/jmsclient/pom.properties
+jmsclient/target/classes/META-INF/MANIFEST.MF
+jmsclient/target/classes/jndi.properties
+jmsclient/jmsclient.iml

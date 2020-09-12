@@ -30,7 +30,7 @@ public class AppConfig {
 	private static final String DEFAULT_BROKER_URL = "tcp://localhost:61616";
 	
 	private static final String JNDI_CONNECTION_FACTORY = "ConnectionFactory";
-	private static final String ORDER_QUEUE = "order-queue";
+	public static final String ORDER_QUEUE = "order-queue";
 
 	private static final String USERNAME = "username";
 	private static final String PASSWORD = "password";
